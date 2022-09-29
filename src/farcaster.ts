@@ -51,27 +51,23 @@ export class Farcaster {
     }
 
     let prevMerkleRoot: string;
-    let address: string;
-    let sequence: number;
 
     // lookup the latest activity from this user to populate the sequence number and continue the merkle tree
     const userActivity = await this.getLatestActivityForUser(
       request.fromUsername
     );
+    const user = await this.userRegistry.lookupByUsername(
+      request.fromUsername
+    );
+    if (user == null) {
+      throw new Error(`no such user with username ${request.fromUsername}`);
+    }
+    const address = user.address;
+    const sequence = 0;
     if (userActivity == null) {
-      const user = await this.userRegistry.lookupByUsername(
-        request.fromUsername
-      );
-      if (user == null) {
-        throw new Error(`no such user with username ${request.fromUsername}`);
-      }
-      address = user.address;
       prevMerkleRoot = keccak256(toUtf8Bytes(""));
-      sequence = 0;
     } else {
-      address = userActivity.body.address;
       prevMerkleRoot = userActivity.merkleRoot;
-      sequence = userActivity.body.sequence + 1;
     }
 
     return {

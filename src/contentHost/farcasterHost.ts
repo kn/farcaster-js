@@ -39,7 +39,7 @@ export class FarcasterContentHost {
   ): Promise<Message | undefined> {
     // eslint-disable-next-line no-unreachable-loop
     for await (const activity of this.getAllActivityForUser(userOrAddress, {
-      includeRecasts: false,
+      includeRecasts: true,
     })) {
       // return first result
       return activity;

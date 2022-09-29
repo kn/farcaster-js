@@ -12757,7 +12757,7 @@ class FarcasterContentHost {
         try {
             // eslint-disable-next-line no-unreachable-loop
             for (var _b = __asyncValues(this.getAllActivityForUser(userOrAddress, {
-                includeRecasts: false,
+                includeRecasts: true,
             })), _c; _c = await _b.next(), !_c.done;) {
                 const activity = _c.value;
                 // return first result
@@ -15132,19 +15132,17 @@ class Farcaster {
         let sequence;
         // lookup the latest activity from this user to populate the sequence number and continue the merkle tree
         const userActivity = await this.getLatestActivityForUser(request.fromUsername);
+        const user = await this.userRegistry.lookupByUsername(request.fromUsername);
+        if (user == null) {
+            throw new Error(`no such user with username ${request.fromUsername}`);
+        }
+        address = user.address;
+        sequence = 0;
         if (userActivity == null) {
-            const user = await this.userRegistry.lookupByUsername(request.fromUsername);
-            if (user == null) {
-                throw new Error(`no such user with username ${request.fromUsername}`);
-            }
-            address = user.address;
             prevMerkleRoot = keccak256(toUtf8Bytes(""));
-            sequence = 0;
         }
         else {
-            address = userActivity.body.address;
             prevMerkleRoot = userActivity.merkleRoot;
-            sequence = userActivity.body.sequence + 1;
         }
         return {
             type: exports.MessageBodyType.TextShort,

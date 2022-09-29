@@ -81,7 +81,7 @@ Yields all [Messages](../interfaces/Message.md) from the given username, in orde
 
 #### Defined in
 
-[farcaster.ts:146](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L146)
+[farcaster.ts:142](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L142)
 
 ___
 
@@ -103,7 +103,7 @@ Returns the most recent [Message](../interfaces/Message.md) published by the giv
 
 #### Defined in
 
-[farcaster.ts:131](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L131)
+[farcaster.ts:127](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L127)
 
 ___
 
@@ -148,7 +148,7 @@ Validates [signature](../interfaces/Message.md#signature) and [merkleRoot](../in
 
 #### Defined in
 
-[farcaster.ts:115](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L115)
+[farcaster.ts:111](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L111)
 
 ___
 
@@ -175,4 +175,4 @@ Signs a cast.
 
 #### Defined in
 
-[farcaster.ts:93](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L93)
+[farcaster.ts:89](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L89)
