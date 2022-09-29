@@ -39,7 +39,7 @@ Ethereum private key.
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:23](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L23)
+[contentHost/farcasterHost.ts:23](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L23)
 
 ## Properties
 
@@ -49,7 +49,7 @@ Ethereum private key.
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:16](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L16)
+[contentHost/farcasterHost.ts:16](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L16)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:14](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L14)
+[contentHost/farcasterHost.ts:14](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L14)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:18](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L18)
+[contentHost/farcasterHost.ts:18](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L18)
 
 ## Methods
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:90](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L90)
+[contentHost/farcasterHost.ts:90](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L90)
 
 ___
 
@@ -113,7 +113,7 @@ Yields all [Messages](../interfaces/Message.md) from the given username, in orde
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:56](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L56)
+[contentHost/farcasterHost.ts:56](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L56)
 
 ___
 
@@ -135,7 +135,7 @@ The most recent [Message](../interfaces/Message.md) posted by this user, if any
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:37](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L37)
+[contentHost/farcasterHost.ts:37](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L37)
 
 ___
 
@@ -160,4 +160,4 @@ ___
 
 #### Defined in
 
-[contentHost/farcasterHost.ts:82](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L82)
+[contentHost/farcasterHost.ts:82](https://github.com/kn/farcaster-js/blob/main/src/contentHost/farcasterHost.ts#L82)

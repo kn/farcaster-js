@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[api.ts:89](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L89)
+[api.ts:89](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L89)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[api.ts:88](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L88)
+[api.ts:88](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L88)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[api.ts:90](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L90)
+[api.ts:90](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L90)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[api.ts:93](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L93)
+[api.ts:93](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L93)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[api.ts:91](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L91)
+[api.ts:91](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L91)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[api.ts:92](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L92)
+[api.ts:92](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L92)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[api.ts:104](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L104)
+[api.ts:104](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L104)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[api.ts:95](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L95)
+[api.ts:95](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L95)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[api.ts:96](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L96)
+[api.ts:96](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L96)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[api.ts:94](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L94)
+[api.ts:94](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L94)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[api.ts:100](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L100)
+[api.ts:100](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L100)

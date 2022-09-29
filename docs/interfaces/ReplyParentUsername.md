@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[api.ts:108](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L108)
+[api.ts:108](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L108)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[api.ts:109](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L109)
+[api.ts:109](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L109)

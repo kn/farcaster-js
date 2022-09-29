@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[contentHost/index.ts:3](https://github.com/standard-crypto/farcaster-js/blob/main/src/contentHost/index.ts#L3)
+[contentHost/index.ts:3](https://github.com/kn/farcaster-js/blob/main/src/contentHost/index.ts#L3)
 
 ## Variables
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[farcaster.ts:11](https://github.com/standard-crypto/farcaster-js/blob/main/src/farcaster.ts#L11)
+[farcaster.ts:11](https://github.com/kn/farcaster-js/blob/main/src/farcaster.ts#L11)
 
 ## Functions
 
@@ -85,7 +85,7 @@ to the given private key's address.
 
 #### Defined in
 
-[index.ts:16](https://github.com/standard-crypto/farcaster-js/blob/main/src/index.ts#L16)
+[index.ts:16](https://github.com/kn/farcaster-js/blob/main/src/index.ts#L16)
 
 ___
 
@@ -108,4 +108,4 @@ Required for producing and verifying signatures.
 
 #### Defined in
 
-[serialization.ts:7](https://github.com/standard-crypto/farcaster-js/blob/main/src/serialization.ts#L7)
+[serialization.ts:7](https://github.com/kn/farcaster-js/blob/main/src/serialization.ts#L7)

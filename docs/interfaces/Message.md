@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[api.ts:55](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L55)
+[api.ts:55](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L55)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[api.ts:56](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L56)
+[api.ts:56](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L56)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[api.ts:58](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L58)
+[api.ts:58](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L58)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[api.ts:57](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L57)
+[api.ts:57](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L57)

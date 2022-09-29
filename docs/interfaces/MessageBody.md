@@ -27,7 +27,7 @@ The address owning the user at the time this was published
 
 #### Defined in
 
-[api.ts:73](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L73)
+[api.ts:73](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L73)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[api.ts:74](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L74)
+[api.ts:74](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L74)
 
 ___
 
@@ -56,7 +56,7 @@ The `merkleRoot` value of the previous action by this user
 
 #### Defined in
 
-[api.ts:79](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L79)
+[api.ts:79](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L79)
 
 ___
 
@@ -68,7 +68,7 @@ Timestamp in epoch milliseconds
 
 #### Defined in
 
-[api.ts:68](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L68)
+[api.ts:68](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L68)
 
 ___
 
@@ -80,7 +80,7 @@ The index of this action in the sequence of all messages by this user. Zero-inde
 
 #### Defined in
 
-[api.ts:70](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L70)
+[api.ts:70](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L70)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[api.ts:80](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L80)
+[api.ts:80](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L80)
 
 ___
 
@@ -102,7 +102,7 @@ The type of message this represents
 
 #### Defined in
 
-[api.ts:66](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L66)
+[api.ts:66](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L66)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-[api.ts:71](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L71)
+[api.ts:71](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L71)

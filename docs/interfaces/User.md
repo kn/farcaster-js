@@ -31,7 +31,7 @@ The user's registered Ethereum address
 
 #### Defined in
 
-[api.ts:18](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L18)
+[api.ts:18](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L18)
 
 ___
 
@@ -50,7 +50,7 @@ Details for the user's avatar
 
 #### Defined in
 
-[api.ts:29](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L29)
+[api.ts:29](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L29)
 
 ___
 
@@ -62,7 +62,7 @@ The user's full display name
 
 #### Defined in
 
-[api.ts:22](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L22)
+[api.ts:22](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L22)
 
 ___
 
@@ -75,7 +75,7 @@ The permanent ID associated with a user
 
 #### Defined in
 
-[api.ts:27](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L27)
+[api.ts:27](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L27)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[api.ts:33](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L33)
+[api.ts:33](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L33)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[api.ts:34](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L34)
+[api.ts:34](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L34)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[api.ts:36](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L36)
+[api.ts:36](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L36)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[api.ts:35](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L35)
+[api.ts:35](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L35)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[api.ts:37](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L37)
+[api.ts:37](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L37)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[api.ts:46](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L46)
+[api.ts:46](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L46)
 
 ___
 
@@ -157,7 +157,7 @@ The user's currently assigned username (without the leading '@')
 
 #### Defined in
 
-[api.ts:20](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L20)
+[api.ts:20](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L20)
 
 ___
 
@@ -167,4 +167,4 @@ ___
 
 #### Defined in
 
-[api.ts:47](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L47)
+[api.ts:47](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L47)

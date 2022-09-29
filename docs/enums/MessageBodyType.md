@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[api.ts:51](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L51)
+[api.ts:51](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L51)

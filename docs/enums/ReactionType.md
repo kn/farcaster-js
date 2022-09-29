@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[api.ts:119](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L119)
+[api.ts:119](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L119)

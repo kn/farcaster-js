@@ -31,7 +31,7 @@ Generic response type returned by requests to api.farcaster.xyz
 
 #### Defined in
 
-[api.ts:8](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L8)
+[api.ts:8](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L8)
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 #### Defined in
 
-[api.ts:7](https://github.com/standard-crypto/farcaster-js/blob/main/src/api.ts#L7)
+[api.ts:7](https://github.com/kn/farcaster-js/blob/main/src/api.ts#L7)
