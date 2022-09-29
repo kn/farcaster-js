@@ -15120,16 +15120,14 @@ class Farcaster {
             }
         }
         let prevMerkleRoot;
-        let address;
-        let sequence;
         // lookup the latest activity from this user to populate the sequence number and continue the merkle tree
         const userActivity = await this.getLatestActivityForUser(request.fromUsername);
         const user = await this.userRegistry.lookupByUsername(request.fromUsername);
         if (user == null) {
             throw new Error(`no such user with username ${request.fromUsername}`);
         }
-        address = user.address;
-        sequence = 0;
+        const address = user.address;
+        const sequence = 0;
         if (userActivity == null) {
             prevMerkleRoot = keccak256(toUtf8Bytes(""));
         }
